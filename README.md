@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **Vinay kumar specializing in **Cloud Solution Architect, DevOps, and Platform Engineering** from 🇮🇳 India And UAE (Dubai), with **4+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **Vinay kumar specializing in **Cloud Solution Architect, DevOps, and Platform Engineering** from India And UAE (Dubai), with **4+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 🔭 Currently working on **cloud-native solutions**, ** and **DevOps/Platform engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
@@ -95,72 +95,3 @@ I'm a **Vinay kumar specializing in **Cloud Solution Architect, DevOps, and Plat
 [![GitHub followers](https://img.shields.io/github/followers/Vinay99340?label=Follow&style=social)](https://github.com/Vinay99340)
 
 </div>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-</p>
-
-### **Databases & Monitoring**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay33940&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay33940&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay33940&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinay99340&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinay99340&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay111/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinay_kumae99340/)
-[![Email](https://img.shields.io/badge/Email-vinay0000328@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinay0000328@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Building the future, one deployment at a time" 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vinay99340&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Vinay99340?label=Follow&style=social)](https://github.com/Vinay99340)
-
-</div>
-
--->
