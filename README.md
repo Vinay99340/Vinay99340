@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **Vinay kumar specializing in **Cloud Solution Architect, DevOps, and Platform Engineering** from India And UAE (Dubai), with **4+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm **Vinay kumar specializing in **Cloud Solution Architect, DevOps, and Platform Engineering** from India And UAE (Dubai), with **4+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 🔭 Currently working on **cloud-native solutions**, ** and **DevOps/Platform engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
